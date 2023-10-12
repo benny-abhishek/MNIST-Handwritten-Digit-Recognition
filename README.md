@@ -19,17 +19,22 @@ Multi-layer Perceptron
 
 ### Output Screenshots
 
-![Screenshot (12)](https://github.com/benny-abhishek/MNIST-Handwritten-Digit-Recognition/blob/main/output_screenshots/Screenshot%20(12).png)
+![Screenshot (12)](https://github.com/benny-abhishek/MNIST-Handwritten-Digit-Recognition/assets/121245162/3daf80bf-57a8-4822-85e3-0be4255e89a5)
 
-![Screenshot (5)](https://github.com/benny-abhishek/MNIST-Handwritten-Digit-Recognition/blob/main/output_screenshots/Screenshot%20(5).png)
+![Screenshot (5)](https://github.com/benny-abhishek/MNIST-Handwritten-Digit-Recognition/assets/121245162/efe823ff-169f-442f-92ce-b29233367577)
 
-![Screenshot (6)](https://github.com/benny-abhishek/MNIST-Handwritten-Digit-Recognition/blob/main/output_screenshots/Screenshot%20(6).png)
+![Screenshot (6)](https://github.com/benny-abhishek/MNIST-Handwritten-Digit-Recognition/assets/121245162/adca5228-2506-44e5-b7c5-28a6f157a306)
 
-![Screenshot (7)](https://github.com/benny-abhishek/MNIST-Handwritten-Digit-Recognition/blob/main/output_screenshots/Screenshot%20(7).png)
+![Screenshot (7)](https://github.com/benny-abhishek/MNIST-Handwritten-Digit-Recognition/assets/121245162/232cb42e-8456-41c7-8bb7-713e52270702)
 
-![Screenshot (8)](https://github.com/benny-abhishek/MNIST-Handwritten-Digit-Recognition/blob/main/output_screenshots/Screenshot%20(8).png)
+![Screenshot (8)](https://github.com/benny-abhishek/MNIST-Handwritten-Digit-Recognition/assets/121245162/68fa4fd8-1d76-4fa2-92d4-bd65d7527797)
 
-![Screenshot (9)](https://github.com/benny-abhishek/MNIST-Handwritten-Digit-Recognition/blob/main/output_screenshots/Screenshot%20(9).png)
+![Screenshot (9)](https://github.com/benny-abhishek/MNIST-Handwritten-Digit-Recognition/assets/121245162/199512b8-9358-46ef-90c4-cbc1057c2606)
+
+
+
+
+
 
 
 
